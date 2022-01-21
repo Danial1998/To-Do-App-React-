@@ -1,2 +1,3 @@
 # To-Do-App-React-
-A to-do app build using reactjs
+A to-do app built using reactjs
+
